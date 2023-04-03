@@ -1,0 +1,13 @@
+.todo-list__wrapper {
+  display: flex;
+  padding-top: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-list {
+  width: 500px;
+  margin: 0 0 50px 0;
+  padding: 0;
+}
